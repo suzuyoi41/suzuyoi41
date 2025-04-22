@@ -7,7 +7,7 @@
 C/C++/C#/Pythonがちょっとだけできます．
 Java/HTML5/CSS3/JavaScriptは授業でやったくらいです．
 
-Unity/Wwiseなども触ってます．
+Unity/Wwiseなども触ってます．最近競プロにハマっています．
 
 Aclua(あくるあ)という名義で作曲もしています．
 ゲームのBGMとかSEを作ったり制御したりするのが目標です．
