@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello👋
 
-<!--
-**suzuyoi41/suzuyoi41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+すずよい(suzuyoi41)と申します．
+情報工学専攻です．B3になりました．
 
-Here are some ideas to get you started:
+ゲーム周りのサウンドエンジニアになるために，音声信号処理について勉強しています．
+C/C++/C#/Pythonがちょっとだけできます．
+Java/HTML5/CSS3/JavaScriptは授業でやったくらいです．
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unity/Wwiseなども触ってます．
+
+Aclua(あくるあ)という名義で作曲もしています．
+ゲームのBGMとかSEを作ったり制御したりするのが目標です．
+
+色々な技術の話を聴くのが好きです．よろしくお願いします！
